@@ -16,7 +16,7 @@ Modo de uso
  
   
 Features:
-  It filters the data by attribute in 'filtrarPor'
+  It filters the data by attribute in 'filtrarPor'.
   It sets the Selector options based on the data.
   It renders the options in alphabetical order.
   It gives back the filtered data to its parent component.
