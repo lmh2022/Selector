@@ -1,5 +1,5 @@
 # Selector
-Component to select data from a table
+Component for React to select and filter data from a table
 
 
 Características
